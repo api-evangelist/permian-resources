@@ -3,6 +3,17 @@ aid: permian-resources
 url: https://github.com/api-evangelist/permian-resources
 name: Permian Resources
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://permianres.com/favicon.ico
 tags:
   - Energy
